@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BudgetApplication</string>
+    <string name="item_title_label">Name</string>
+    <string name="item_title_hint">Enter a name for current item</string>
+    <string name="item_details_label">Details</string>
+    <string name="item_value_label">Value</string>
+    <string name="item_quantity_text">Quantity</string>
+    <string name="budget_report_text">Send Report</string>
+    <string name="item_value_hint">Enter item\'s value</string>
+    <string name="item_quantity_label">Quantity</string>
+    <string name="item_quantity_hint">Enter item\'s quantity</string>
+    <string name="budget_report_subject">BudgetApplication Report</string>
+    <string name="send_report">Send Budget Report via</string>
+    <string name="date_picker_title">Date of item:</string>
+    <string name="new_item">New Item</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d items</string>
+    <string name="budget_text">Budget</string>
+    <string name="income_text">Incomes</string>
+    <string name="menu_label">Budget Application</string>
+    <string name="report_text">Report</string>
+    <string name="income_title_label">Income</string>
+    <string name="income_title_hint">Enter income\'s title</string>
+    <string name="income_details_label">Details</string>
+    <string name="income_value_label">Value</string>
+    <string name="income_value_hint">Enter income\'s value</string>
+    <string name="new_income">New Income</string>
+    <string name="report_label">Report</string>
+    <string name="budget_label">Budget cost:</string>
+    <string name="income_label">Income: </string>
+    <string name="result_label">Result</string>
+    <string name="report_title">Report</string>
+    <string name="period_label">Period: </string>
+</resources>
